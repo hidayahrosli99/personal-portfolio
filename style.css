@@ -1,0 +1,51 @@
+body
+{
+background-color:Khaki ;
+}
+
+h1
+{
+background-color: Yellow  ;
+font-face: Footlight MT Light;
+font-size: 90px;
+color: black;
+border: solid;
+border-color:black;
+border-radius:40px;
+}
+
+p
+{
+background-color: white  ;
+font-size: 32px;
+color: black ;
+font-family: 'Dekko', cursive;
+text-allign: center;
+pedding: 15px;
+
+border: inset;
+border-color:DCD9B1
+border-bottom-right-radius:20px;
+}
+
+
+a:link, a:visited
+{
+background-color:black ;
+color: yellow;
+text-allign: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 10px;
+padding: 10px;
+
+}
+
+a:hover, a:active
+{
+background-color:DimGray;
+color:white;
+text-decoration: none;
+}
+
+
